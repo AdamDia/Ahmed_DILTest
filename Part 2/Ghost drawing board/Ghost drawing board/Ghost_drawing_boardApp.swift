@@ -11,7 +11,7 @@ import SwiftUI
 struct Ghost_drawing_boardApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DrawingBoard()
         }
     }
 }
